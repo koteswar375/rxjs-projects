@@ -1,0 +1,23 @@
+{
+  "name": "rxjs-projects",
+  "version": "1.0.0",
+  "description": "This repo contains some interesting games and small projects coded in rxjs inorder for one to master the usage of operators and deeply understand the concepts of rxjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koteswar375/rxjs-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koteswar375/rxjs-projects/issues"
+  },
+  "homepage": "https://github.com/koteswar375/rxjs-projects#readme",
+  "devDependencies": {
+    "webpack": "^4.41.0",
+    "webpack-server": "^0.1.2"
+  }
+}
