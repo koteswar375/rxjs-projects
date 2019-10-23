@@ -1,4 +1,6 @@
 export const message = "Hello there";
 
 const first = of("first");
-let line = "This is a line";
+const second = of("second");
+const third = of("third");
+const fourth = of("fourth");
