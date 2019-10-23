@@ -33,3 +33,7 @@ function replaceItem(val) {
 }
 
 addItem("This is it!!");
+addItem("This is it!!");
+addItem("This is it!!");
+addItem("This is it!!");
+addItem("This is it!!");
