@@ -9,3 +9,4 @@ const first = of("first");
 
 const line = "This is added in the first commit";
 const line2 = "This is added in the second commit";
+const line3 = "This is the most recent commit";
